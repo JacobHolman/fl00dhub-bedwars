@@ -1,1 +1,2 @@
-
+-- Created by Lava#9800.
+-- This script is Fl00d's own bedwars script.
